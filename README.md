@@ -22,4 +22,4 @@ There is no installation or launch command for the current repository contents.
 
 ## License
 
-[GNU General Public License v3.0](LICENSE).
+[MIT](LICENSE).

@@ -4,7 +4,7 @@ An early concept for an AI-assisted life coach focused on exercise, nutrition, s
 
 ## Project status
 
-This repository currently contains the project description, a Python-oriented `.gitignore`, and a license. It does **not** yet contain an application, model, dependency manifest, tests, or deployment configuration.
+This repository currently contains the project description and a Python-oriented `.gitignore`. It does **not** yet contain an application, model, dependency manifest, tests, or deployment configuration.
 
 The description above records the intended direction. It should not be read as a claim that coaching features are already implemented.
 
@@ -20,6 +20,6 @@ Before implementation, define the initial user workflow, supported inputs, evide
 
 There is no installation or launch command for the current repository contents.
 
-## License
+## Copyright
 
-[MIT](LICENSE).
+© Ata Turhan. All rights reserved. This repository has no open-source license: its code may not be copied, modified or redistributed.
